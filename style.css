@@ -1,0 +1,24 @@
+h1 {
+    font-size: 25px;
+    color: green;
+}
+
+p {
+    line-height: 2;
+    color: purple;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+button:hover {
+    cursor: pointer;
+    color: purple;
+    background-color: white;
+    border: 1px solid purple;
+}
